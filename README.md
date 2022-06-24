@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
-</br>
-
-<kbd style="background:#acacac12">
 
 🌱 I’m currently learning **React JS, Laravel, Tailwind CSS**
 
 📝 I regularly write articles on [danisec.com](danisec.com)
-
-</kbd>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
