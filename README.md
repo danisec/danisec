@@ -4,9 +4,9 @@
 
 <kbd style="background:#acacac12">
 
-- 🌱 I’m currently learning **React JS, Laravel, Tailwind CSS**
+🌱 I’m currently learning **React JS, Laravel, Tailwind CSS**
 
-- 📝 I regularly write articles on [danisec.com](danisec.com)
+📝 I regularly write articles on [danisec.com](danisec.com)
 
 </kbd>
 
