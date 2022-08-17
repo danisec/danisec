@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
+
+<div align="center"><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="10%" height="100%" /></div>
 <h3 align="center">A passionate frontend and backend developer</h3>
 </br>
 
@@ -10,7 +12,6 @@
 
 </kbd>
 
-<div><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="20%" height="50%" style="position: relative; margin: 1rem 0; float: right" allowFullScreen /></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
