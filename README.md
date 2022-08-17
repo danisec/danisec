@@ -10,7 +10,7 @@
 
 </kbd>
 
-<div><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="10%" height="20%" style="position:absolute; right:0;" allowFullScreen /></div>
+<div><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="20%" height="50%" style="position: relative; margin: 1rem 0; float: right" allowFullScreen /></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
