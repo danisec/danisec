@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 
-<div align="center"><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="10%" height="100%" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="25%" height="100%" /></div>
 <h3 align="center">A passionate frontend and backend developer</h3>
 </br>
 
