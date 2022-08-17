@@ -10,6 +10,8 @@
 
 </kbd>
 
+<div><img src="https://raw.githubusercontent.com/danisec/danisec/main/giphy/hacktiv8.webp" width="10%" height="20%" style="position:absolute; right:0;" allowFullScreen /></div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jsfloat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsfloat" height="30" width="40" /></a> <a href="https://instagram.com/dann.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dann.dev" height="30" width="40" /></a> <a href="https://linkedin.com/in/dani-aprilyanto-278258130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dani-aprilyanto-278258130/" height="30" width="40" /></a>
