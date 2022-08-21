@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS, Laravel, Tailwind CSS**
 
-- 📝 I regularly write articles on [danisec.com](https://danisec.com)
+- 📝 I regularly write articles on <a href="https://danisec.com" target="_blank">danisec.com</a>
 
 </kbd>
 
