@@ -5,7 +5,7 @@
 ### <div>I'm Dani, a passionate frontend and backend developer 👨‍💻</div>  
   
   
-- 🌱 I’m currently learning **React JS, Laravel, Tailwind CSS**
+- 🌱 I’m currently learning **React JS, and Tailwind CSS**
   
 
 - ❓ Ask me about anything related to front-end and related technologies  
