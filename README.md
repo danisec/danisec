@@ -1,7 +1,7 @@
 ### <div>I'm Dani, a passionate frontend and backend developer 👨‍💻</div>  
   
   
-- 🌱 I’m currently learning **React, and Tailwind CSS**
+- 🌱 I’m currently using **React JS, and Laravel**
   
 
 - ❓ Ask me about anything related to front-end and related technologies  
