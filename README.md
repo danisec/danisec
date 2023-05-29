@@ -1,4 +1,4 @@
-### <div>I'm Dani, a passionate frontend and backend developer 👨‍💻</div>  
+### <div>I'm Dani, a passionate Front-End and Back-End Developer 👨‍💻</div>  
   
   
 - 🌱 I’m currently using **React JS, and Laravel**
