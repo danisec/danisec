@@ -4,10 +4,11 @@
 - 🌱 I’m currently using **React, and Laravel**
   
 
+- 📝 I regularly write articles on [danisec.com](https://danisec.com)
+
+
 - ❓ Ask me about anything related to front-end and related technologies  
   
-
-- 📝 I regularly write articles on [danisec.com](https://danisec.com)  
 
 <br />
 
