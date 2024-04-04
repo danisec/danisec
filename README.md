@@ -1,7 +1,7 @@
 ### <div>I'm Dani, a passionate Front-End and Back-End Developer 👨‍💻</div>  
   
   
-- 🌱 I’m currently using **React, and Laravel**
+- 🌱 I’m currently using **React and Laravel**
   
 
 - 📝 I regularly write articles on [danisec.com](https://danisec.com)
