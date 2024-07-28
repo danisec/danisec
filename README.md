@@ -4,7 +4,7 @@
 - 🌱 I’m currently using **React and Laravel**
   
 
-- 📝 I regularly write articles on [LinkedIn]([https://danisec.com](https://linkedin.com/in/dani-aprilyanto))
+- 📝 I regularly write articles on [LinkedIn]([https://linkedin.com/in/dani-aprilyanto])
 
 
 - ❓ Ask me about anything related to front-end and related technologies  
