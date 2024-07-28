@@ -4,7 +4,7 @@
 - 🌱 I’m currently using **React and Laravel**
   
 
-- 📝 I regularly write articles on [danisec.com](https://danisec.com)
+- 📝 I regularly write articles on [LinkedIn]([https://danisec.com](https://linkedin.com/in/dani-aprilyanto))
 
 
 - ❓ Ask me about anything related to front-end and related technologies  
@@ -24,7 +24,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://linkedin.com/in/dani-aprilyanto-278258130/" target="_blank">
+<a href="https://linkedin.com/in/dani-aprilyanto" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
